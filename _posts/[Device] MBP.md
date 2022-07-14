@@ -1,0 +1,41 @@
+# MBP
+
+> principles
+> - 减少安装和本地文件，多用网页、云盘
+
+## todo
+
+- [ ] [mac加win-¥700](https://zhuanlan.zhihu.com/p/43525887)：固态硬盘+硬盘盒
+
+## use log
+
+### brew
+
+- [homebrew安装](https://zhuanlan.zhihu.com/p/30704752): [homebrew国内源配置](https://cloud.tencent.com/developer/article/1614039)
+- `mysql -uroot -p 34250585@GIGlzf`
+- [Java环境配置](https://zhuanlan.zhihu.com/p/298535991)
+- python
+
+### 快捷键
+
+- [添加快捷键](https://blog.csdn.net/lishanleilixin/article/details/90515746?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.base&spm=1001.2101.3001.4242): terminal快捷键 `Ctrl+Alt+T` ｜finder快捷键 `Ctrl+Alt+F` ｜将窗口拼贴到屏幕左侧快捷键`Cmd+R`
+- EOF: `Ctrl+D`
+- finder显示隐藏文件：`Command+Shift+.`
+
+### zsh&vim&ssh
+
+- [zsh](https://zhuanlan.zhihu.com/p/60880207): 添加了一个.zshrc，设置格式的时候用
+- vim: 设置了$USER/.vimrc
+- [mac-zsh的ll命令](https://blog.csdn.net/LI_RONGHUA/article/details/106318860)`~/.bash_profile` 改为 `~/.zprofile`
+- mac ssh免密码：ssh-copy-id -i ~/.ssh/id_rsa.pub root@服务器IP
+- linux: 将公钥发送到远端保持ssh无密码登陆
+
+## 软件安装
+
+- [时钟屏保](https://zhuanlan.zhihu.com/p/105069716)
+- [touch bar保存dock](https://macwk.com/soft/pock)
+- [mac禁用microsoft update](https://mac.orsoon.com/news/1048988.html)
+- [mac原生词典扩展](https://macwk.com/soft/pock)
+- [mac装ssr](https://gcdd1993.github.io/p/709/)
+- 网易云音乐播放列表迁移：[迁移 网易云 / QQ 音乐到 Apple Music, Youtube Music, Spotify | yyrcd](https://yyrcd.com/n2s/)
+
