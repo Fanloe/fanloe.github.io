@@ -5,7 +5,6 @@ date:   2022-07-14 22:23:18 +0800
 categories: record work
 ---
 
-# JobApplication
 > [面试经验贴](https://docs.qq.com/doc/DTXBKckZjUUd2VXBX)
 [阿秀的校招笔记](https://interviewguide.cn/#/README)
 [面试算法题](https://www.zhihu.com/question/24964987)
