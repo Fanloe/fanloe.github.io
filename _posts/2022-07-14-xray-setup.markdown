@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Xray Setup"
+date:   2022-07-14 22:23:18 +0800
+categories: tools & softwares
+---
 
 > 实践时间：2021/11/02 - 2021/11/04
 >
