@@ -13,7 +13,7 @@ description: "log, diaries and notes"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
-avatar : https://avatars.githubusercontent.com/u/43292803?v=4
+avatar: https://avatars.githubusercontent.com/u/43292803?v=4
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 # favicon: https://github.com/fanloe/fanloe.github.io/raw/master/images/favicon.ico
 favicon: https://avatars.githubusercontent.com/u/43292803?v=4
@@ -57,7 +57,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+# footer-text: Copyright (c) 2019 lemon
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -71,7 +71,7 @@ disqus: # fromendworld
 #  owner: lemonchann
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+#google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -81,7 +81,7 @@ url: https://fanloe.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: 
+# baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -101,7 +101,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -120,4 +120,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
